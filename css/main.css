@@ -82,7 +82,7 @@ img {
 }
 
 .head-container {
-    background: url("../images/bg-image.png") no-repeat;
+    background: url("../images/bg-image.jpg") no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
     margin: 0 auto;
