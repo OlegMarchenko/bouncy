@@ -82,7 +82,7 @@ img {
 }
 
 .head-container {
-    background: url("../images/bg-image.jpg") no-repeat;
+    background: url("../images/bg-image.jpg?ver1.2") no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
     margin: 0 auto;
@@ -171,7 +171,7 @@ header .nav ul li a.active {
 
 .wrapper .arrowdown {
     position: absolute;
-    background: #19bd9a url("../images/arrow-down.png") 50% 50% no-repeat;
+    background: #19bd9a url("../images/arrow-down.png?ver1.2") 50% 50% no-repeat;
     display: inline-block;
     width: 36px;
     height: 36px;
@@ -273,17 +273,17 @@ header .nav ul li a.active {
 }
 
 .details .like {
-    background: #81868e url("../images/like-icon.png") 50% 50% no-repeat;
+    background: #81868e url("../images/like-icon.png?ver1.2") 50% 50% no-repeat;
     left: 45%;
 }
 
 .details .mouse {
-    background: #81868e url("../images/mouse.png") 50% 40% no-repeat;
+    background: #81868e url("../images/mouse.png?ver1.2") 50% 40% no-repeat;
     left: 50%;
 }
 
 .details .lamp {
-    background: #81868e url("../images/lamp.png") 50% 50% no-repeat;
+    background: #81868e url("../images/lamp.png?ver1.2") 50% 50% no-repeat;
     left: 55%;
 
 }
@@ -378,25 +378,25 @@ header .nav ul li a.active {
 .item-box1 {
     width: 50%;
     height: 319px;
-    background: url("../images/img1.png") no-repeat;
+    background: url("../images/img1.png?ver1.2") no-repeat;
     background-size: cover;
 }
 .item-box2 {
     width: 25%;
     height: 319px;
-    background: url("../images/img2.png") no-repeat;
+    background: url("../images/img2.png?ver1.2") no-repeat;
     background-size: cover;
 }
 .item-box3 {
     width: 25%;
     height: 319px;
-    background: url("../images/img3.png") no-repeat;
+    background: url("../images/img3.png?ver1.2") no-repeat;
     background-size: cover;
 }
 .item-box4 {
     width: 100%;
     height: 113px;
-    background: url("../images/img4.png") no-repeat;
+    background: url("../images/img4.png?ver1.2") no-repeat;
     background-size: cover;
 }
 .product .item-box {
@@ -503,22 +503,22 @@ header .nav ul li a.active {
 }
 
 .offers-icons .tools {
-    background: #81868e url("../images/tools-icon.png") 50% 50% no-repeat;
+    background: #81868e url("../images/tools-icon.png?ver1.2") 50% 50% no-repeat;
     top: 232px;
 }
 
 .offers-icons .brush {
-    background: #81868e url("../images/brush-icon.png") 50% 50% no-repeat;
+    background: #81868e url("../images/brush-icon.png?ver1.2") 50% 50% no-repeat;
     top: 299px;
 }
 
 .offers-icons .play {
-    background: #81868e url("../images/play-icon.png") 50% 50% no-repeat;
+    background: #81868e url("../images/play-icon.png?ver1.2") 50% 50% no-repeat;
     top: 364px;
 }
 
 .offers-icons .socket {
-    background: #81868e url("../images/socket-icon.png") 50% 50% no-repeat;
+    background: #81868e url("../images/socket-icon.png?ver1.2") 50% 50% no-repeat;
     top: 426px;
 }
 
@@ -578,7 +578,7 @@ header .nav ul li a.active {
 }
 
 .impressed {
-    background: url("../images/bg-inn.png") no-repeat;
+    background: url("../images/bg-inn.png?ver1.2") no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
 }
@@ -873,7 +873,7 @@ header .nav ul li a.active {
 }
 
 .bl-cont {
-    background: url("../images/bg-img-black.png") no-repeat;
+    background: url("../images/bg-img-black.png?ver1.2") no-repeat;
     background-size: cover;
 }
 
@@ -1071,7 +1071,7 @@ header .nav ul li a.active {
 
 .table-cell .linkico {
     position: absolute;
-    background: #000 url("../images/link-iconInPortfiolio.png") 50% 50% no-repeat;
+    background: #000 url("../images/link-iconInPortfiolio.png?ver1.2") 50% 50% no-repeat;
     display: inline-block;
     width: 28px;
     height: 28px;
@@ -1083,7 +1083,7 @@ header .nav ul li a.active {
 
 .table-cell .likeico {
     position: absolute;
-    background: #000 url("../images/like-iconInPortfiolio.png") 50% 50% no-repeat;
+    background: #000 url("../images/like-iconInPortfiolio.png?ver1.2") 50% 50% no-repeat;
     display: inline-block;
     width: 28px;
     height: 28px;
@@ -1099,7 +1099,7 @@ header .nav ul li a.active {
 /* -------------------------------------- */
 
 .news-container {
-    background: url("../images/bg-image4.png") no-repeat;
+    background: url("../images/bg-image4.png?ver1.2") no-repeat;
     background-size: cover;
 }
 
@@ -1276,7 +1276,7 @@ header .nav ul li a.active {
     margin: 0;
     color: #fff;
     padding-right: 30px;
-    background: url("../images/arrow-lets.start.png") 90% 50% no-repeat;
+    background: url("../images/arrow-lets.start.png?ver1.2") 90% 50% no-repeat;
 }
 
 .price {
@@ -1318,7 +1318,7 @@ header .nav ul li a.active {
 }
 
 .subscribe-us {
-    background: url("../images/bg-image5.png") no-repeat;
+    background: url("../images/bg-image5.png?ver1.2") no-repeat;
     background-size: cover;
 }
 
@@ -1499,7 +1499,7 @@ input[type=submit] {
 }
 
 .em-hover-box .mail {
-    background: url("../images/letter-icon.png") no-repeat;
+    background: url("../images/letter-icon.png?ver1.2") no-repeat;
     position: absolute;
     width: 42px;
     height: 28px;
@@ -1509,7 +1509,7 @@ input[type=submit] {
 }
 
 .em-hover-box .localisation {
-    background: url("../images/location-icon.png") no-repeat;
+    background: url("../images/location-icon.png?ver1.2") no-repeat;
     position: absolute;
     width: 34px;
     height: 50px;
@@ -1519,7 +1519,7 @@ input[type=submit] {
 }
 
 .em-hover-box .phone {
-    background: url("../images/phone-icon.png") no-repeat;
+    background: url("../images/phone-icon.png?ver1.2") no-repeat;
     position: absolute;
     width: 40px;
     height: 46px;
@@ -1566,7 +1566,7 @@ input[type=submit] {
 }
 
 .search-area {
-    background: url("../images/map-img.png") no-repeat;
+    background: url("../images/map-img.png?ver1.2") no-repeat;
     background-size: cover;
 }
 
@@ -1594,7 +1594,7 @@ input[type=submit] {
     position: absolute;
     content: '';
     display: block;
-    background: url("../images/iconformap.png") no-repeat;
+    background: url("../images/iconformap.png?ver1.2") no-repeat;
     width: 18px;
     height: 18px;
     top: 13%;
@@ -1638,7 +1638,7 @@ footer {
     text-indent: -9999px;
     width: 36px;
     height: 26px;
-    background: url("../images/sprites.png") no-repeat;
+    background: url("../images/sprites.png?ver1.2") no-repeat;
     overflow: hidden;
 }
 
@@ -1673,7 +1673,7 @@ footer {
         position: absolute;
         top: 0;
         right: 0;
-        background: url("../images/menu.svg") no-repeat;
+        background: url("../images/menu.svg?ver1.2") no-repeat;
         width: 52px;
         height: 48px;
         text-indent: -9999px;
